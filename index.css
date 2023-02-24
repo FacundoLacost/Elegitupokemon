@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body{
+    margin:0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+    .encabezado{
+    width: 100%;
+    height: 100%;
+background-color: #f7de81
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    margin: 0px 30px;
+    color: black;
+}
+.navegacion{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 10%;
+}
+
+.contenedor-info{
+    display: flex;
+align-items: center;
+justify-content: space-around;
+width: 100%;
+height: 90%;}
+
+.genshin{
+    width:100%;
+
+    
+
+}
+.pokemon{ 
+    width: 10%;
+    
+}
+.zoe{
+    width: 60%;
+    margin-left:30% ;
+
+}
+
+.contenedor-parrafo{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 30%;
+}
+.titulo-info{
+    width: 100%;
+}
+
+.boton{
+   font-size: 20px;
+    background-color:beige ;
+    font-family: 'Roboto', sans-serif;
+    height: 50px;
+    width: 40%;
+    border-radius: 40px;
+    Color:rgb(4, 4, 11);
+    border: none;
+    margin-top: 20px;
+    
+}
+
+.section-azul{
+width: 100%;
+height: 100vh;
+background-color: blue;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+.titulo-azul{
+    color: #f7de81;
+    font-size: 80px;
+    font-weight: 800;
+
+}
+
+.parrafo-azul{
+    color: white;
+    font-size: 30px;
+    
+
+}
+
+.container-icons{ display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: 80px;
+    justify-content: space-around;
+    
+    }
+   
+
+    .container-info{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        width: 20%;
+       
+    }
+
+    .container-icons p {
+        margin-top: 20px;
+        text-align: center;
+        color: white;
+        font-size: 25px;
+        font-weight: 300px;
+    }
+
+   
