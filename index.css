@@ -125,4 +125,7 @@ flex-direction: column;
         font-weight: 300px;
     }
 
-   
+   .li-nav:hover{
+    color: white;
+    cursor: pointer;
+   }
